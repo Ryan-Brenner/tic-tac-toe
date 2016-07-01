@@ -1,8 +1,17 @@
+
+
 #board {
-  margin-top: 10px;
+  margin: 10px 10px 10px 10px;
+
+ 
 }
 
 .box {
-  border: 1px solid black;
+  border: 3px solid black;
   height: 150px;
+  width:33%;
+  margin: 3 3 3 3;
+  background: blue;
 }
+
+
