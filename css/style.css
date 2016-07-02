@@ -7,11 +7,74 @@
 }
 
 .box {
-  border: 3px solid black;
+
   height: 150px;
   width:33%;
   margin: 3 3 3 3;
-  background: blue;
+  background: Color ;
 }
 
+.one_one{
+	border-right: 3px solid black;
+	border-bottom:3px solid black;
+}
 
+.one_two{
+	border-right: 3px solid black;
+	border-bottom: 3px solid black;
+	border-left: 3px solid black;
+}
+
+.one_three{
+	border-left: 3px solid black;
+	border-bottom: 3px solid black;
+}
+
+.two_one{
+	border-right: 3px solid black;
+	border-bottom: 3px solid black;
+	border-top: 3px solid black;
+}
+
+.two_two{
+	border-right: 3px solid black;
+	border-bottom: 3px solid black;
+	border-top: 3px solid black;
+	border-left: 3px solid black;
+}
+
+.two_three{
+	border-left: 3px solid black;
+	border-bottom: 3px solid black;
+	border-top: 3px solid black;
+}
+
+.three_one{ 
+	border-right: 3px solid black;
+	border-top: 3px solid black;
+ }
+
+.three_two{
+	border-right: 3px solid black;
+	border-top: 3px solid black;
+	border-left: 3px solid black;
+}
+.three_three{
+	border-left: 3px solid black;
+	border-top: 3px solid black;
+}
+
+.playerOne{
+
+background: red;
+
+
+}
+
+.PlayerTwo{
+
+
+background: green;
+
+
+}
